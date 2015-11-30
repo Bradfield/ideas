@@ -15,7 +15,7 @@ Tools for increasing software reliability
 * An npm alternative or proxy that warns when an installed package is "low quality" or contains a security vulnerability
 * A simple optional typing framework for JavaScript
 * A testing library that encourages tests to be written alongside function definitions
-* A framework for visual diffs and visual regression testing
+* A framework for visual diffs and visual regression testing (prior art includes [wraith](https://github.com/BBC-News/wraith) and [huxley](https://github.com/facebookarchive/huxley))
 
 Opportunistic/timely
 ---
