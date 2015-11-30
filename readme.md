@@ -20,7 +20,6 @@ Tools for increasing software reliability
 Opportunistic/timely
 ---
 * Improvements to eslint-plugin-react - experience has shown it to be buggy, and there is an opportunity to contribute to [auto-fixing](https://github.com/yannickcr/eslint-plugin-react/issues/245)
-* A better color manipulation library in JavaScript - tinycolor2 is not very well written and larger than it needs to be. The need for color manipulation in JavaScript has increased due to JavaScript engineers in the React community moving away from stylesheets in favor of inline styles.
 * The atom linter plugin is one of the most popular and useful, but consistently has multiple failing tests
 
 Education tools
